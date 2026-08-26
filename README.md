@@ -17,6 +17,6 @@ A simple command-line file manager built with Node.js using the File System and 
 ## How to Run
 
 ```bash
-git clone <>
+git clone <https://github.com/devgurveer/node-file-manager.git>
 cd node-file-manager
 node app.js
